@@ -13,7 +13,7 @@ class CountPageState extends State<CountPage> {
   final _style2 = new TextStyle(fontSize: 20, color: Colors.black38);
 
   int _x = 1, _y = 1;
-  String _instructions = "";
+  String _instructions = "x: 1, y: 1";
   int _cas1 = 50,
       _cas2 = 50,
       _cas3 = 50,
